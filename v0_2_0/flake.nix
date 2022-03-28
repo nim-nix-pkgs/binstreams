@@ -11,7 +11,6 @@
   inputs.src-binstreams-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-binstreams-v0_2_0.owner = "johnnovak";
   inputs.src-binstreams-v0_2_0.repo  = "nim-binstreams";
-  inputs.src-binstreams-v0_2_0.dir   = "";
   inputs.src-binstreams-v0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
