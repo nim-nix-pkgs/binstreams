@@ -7,7 +7,7 @@
   "license": "WTFPL",
   "web": "https://github.com/johnnovak/nim-binstreams",
   "refs": [
-    "fatal: unable to access 'https://github.com/johnnovak/nim-binstreams/': OpenSSL SSL_read: Connection reset by peer, errno 104",
+    "fatal: unable to access 'https://github.com/johnnovak/nim-binstreams/': SSL connection timeout",
     ""
   ],
   "heads": []
